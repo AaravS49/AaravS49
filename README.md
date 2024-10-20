@@ -1,6 +1,6 @@
 <div align="center">
-## Hi there 👋, I'm Aarav Satashia
-### Computer Science @ University of Maryland | Minors: Statistics, Economics 
+##Hi there 👋, I'm Aarav Satashia
+###Computer Science @ University of Maryland | Minors: Statistics, Economics 
 </div>
 
 - 🔭 I’m currently working on Climate Computing in the First-Year Research Experience (FIRE) Program at UMD
