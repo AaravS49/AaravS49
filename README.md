@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science @ University of Maryland | Minors: Statistics, Economics</h3>
 
 - 👨‍💻 Climate Computing Researcher at **FIRE**
-- 
+  
 - 🌱 Coursework in:  **Algorithms, OOP, Data Structres, Operating Systems, Data Science, Discrete Structures, Linear Algebra, Applied Probability and Statisicsm**
 
 - ⚡ Interested in **Data Science, Software Engineering, Machine Learning, Data Engineering, Analytics**
@@ -15,4 +15,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+
+
