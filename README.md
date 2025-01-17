@@ -7,7 +7,7 @@
 
 - 🧠 Interested in **Data Science, Software Engineering, Machine Learning, Data Engineering, Analytics**
   
-- 📊 Projects: **Loan Approval Analysis, Financial Performance Visualization, Internship Manager**
+- 📊 Projects: **NFL Superbowl Champion Prediction, Loan Approval Analysis, Financial Performance Visualization, Internship Manager**
 
 - 📫 Reach me at **aarav@umd.edu**
 
