@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **aarav@umd.edu**
 
-<h3 align = "center"> Seeking Internship Opportunities for Summer 2025 </h3>
+<h3 align = "center">  </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="(https://www.linkedin.com/in/aarav-satashia-a8094529b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharvawasthi" height="30" width="40" /></a>
