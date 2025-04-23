@@ -9,7 +9,7 @@
   
 - 📊 Projects: **NFL Superbowl Champion Prediction, Loan Approval Analysis, Financial Performance Visualization, Internship Manager**
 
-- 📫 Reach me at **aarav@umd.edu**
+- 📫 Reach me at **aarav@umd.edu or linkedin.com/in/aarav-satashia-a8094529b/ **
 
 <h3 align = "center">  </h3>
 <h3 align="left">Connect with me:</h3>
